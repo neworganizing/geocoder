@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#!/home/ubuntu/.rvm/bin/ruby
 
 require 'rubygems'
 require 'sqlite3'
